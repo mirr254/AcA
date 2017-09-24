@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aca</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_about_us_menu">"About Us "</string>
+    <string name="title_activity_services">"Services "</string>
+    <string name="title_activity_stakeholders">Stakeholders</string>
+    <string name="title_activity_learn_about_conter_feit">Learn About ConterFeit</string>
+</resources>
